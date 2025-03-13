@@ -1,4 +1,4 @@
-# 3D Scene Navigation, Animation, and Particle System
+# 3D Scene Navigation, Animation, and Particle System(Group 4)
 
 This project is a 3D graphics demonstration developed for a Computer Graphics (year 4) exam at the University of Makeni, showcasing keyframe animation, particle systems, and user-controlled 3D scene navigation.
 
@@ -53,7 +53,7 @@ This project implements the following features:
     * Mouse movement changes the camera angle.
 
 ## Project Structure
-
+* **`main.cpp`:** Contains the main application logic, including rendering, animation, and particle systems.
 * **`*.cbp`:** Code::Blocks project file.
 * **`.gitignore`:** Specifies files to ignore in Git version control.
 
