@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1741839253 source:c:\users\jkham\onedrive\desktop\computer graphics\3d navigation and animation\main.c
+	<GL/glut.h>
+	<cmath>
+	<vector>
+	<cstdlib>
+
