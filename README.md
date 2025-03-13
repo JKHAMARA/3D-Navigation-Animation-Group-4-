@@ -19,7 +19,7 @@ This project implements the following features:
 ## Group Members
 
 * Julius Khamara - 8050
-* Alimamy John Sesay - 7669
+* Alimamy John Sesay - 7669(Team Lead)
 * Belinda H Samba - 8204
 * Abdul Hakeem Mohamed - 7229
 
